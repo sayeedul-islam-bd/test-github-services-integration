@@ -1,2 +1,2 @@
 # test-github-services-integration
-// commet
+// comment
